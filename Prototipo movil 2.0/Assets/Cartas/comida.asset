@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bff3a6d75755644b969361ead383d91, type: 3}
+  m_Name: comida
+  m_EditorClassIdentifier: 
+  nombreCarta: carta comida
+  imagen: {fileID: 21300000, guid: 965119cd345ac3f49b16611d044ba5ec, type: 3}
+  tipoCarta: 0
+  cantidadHambre: 25
