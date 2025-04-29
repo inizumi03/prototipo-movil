@@ -75,4 +75,9 @@ public class MazoManager : MonoBehaviour
 
         carta.position = destino;
     }
+
+    private void Update()
+    {
+        print(espaciosMano.Count);
+    }
 }
